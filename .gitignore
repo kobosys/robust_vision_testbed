@@ -208,3 +208,23 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Python virtual environment
+.venv/
+
+# YOLO / experiment outputs
+runs/
+outputs/
+logs/
+
+# Model weights
+*.pt
+*.onnx
+*.engine
+
+# v4l2loopback source
+v4l2loopback/
+
+# VSCode
+.vscode/
+
