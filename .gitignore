@@ -71,6 +71,9 @@ instance/
 # Sphinx documentation
 docs/_build/
 
+# Video
+v4l2loopback/
+
 # PyBuilder
 .pybuilder/
 target/
