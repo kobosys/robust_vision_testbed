@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": "/home/dhloc/projects/robust_yolo/.venv/bin/python",
+  "python.terminal.activateEnvironment": true
+}
